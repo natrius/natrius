@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @natrius
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Welcome, I'm Natrius!
 
-<!---
-natrius/natrius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm a curious **multipotentialite** with a wide range of interests. My passion for technology and open data brought me to the OpenStreetMap community, where I'm actively involved and currently a member of the association **OpenStreetMap Austria**.
+
+## 🌟 About Me
+- 🗺️ **OpenStreetMap Enthusiast**: I advocate for open data and contribute to mapping projects. I'm proud to be part of the amazing OpenStreetMap community and support initiatives like **OpenHistoricalMap**.
+- 💡 **Lifelong Learner**: I enjoy exploring new skills and interests – currently focusing on **JavaScript** and **drawing**.  
+- 🌍 **Supporter of Open Projects**: I strongly believe in freely accessible knowledge and tools and actively support open-source projects. I'm currently contributing to the **Roadster** Hugo theme, a fork of the popular "Mainroad" theme.  
+
+## 💻 Current Projects
+- **OSM-AT Website**: Improving the website for OpenStreetMap Austria to make information about the organization and community more accessible.  
+- **OpenHistoricalMap**: Contributing to a project that visualizes and shares historical data on maps.  
+- **Roadster Theme**: Supporting the development of the Roadster Hugo theme.  
+- **Learning JavaScript**: Pursuing a personal goal to better understand programming and develop simple projects.  
+
+## 🌱 Hobbies & Interests
+- ✈️ **Traveling**: I love exploring new places and cultures whenever I can.  
+- 🎨 **Drawing**: I'm teaching myself how to draw and improve my creative skills.  
+- 📸 **Photography & Videography**: I enjoy capturing moments through photography and plan to start creating short videos.  
+- 🎲 **Tabletop Role-Playing Games (TTRPGs)**: I love playing TTRPGs and am preparing to start GMing (Game Mastering) soon.  
+
+## 🤝 Let’s Connect
+- 🌐 [OpenStreetMap Austria](https://www.openstreetmap.at/)  
+- 🗺️ [Matrix - @natrius:matrix.org](https://matrix.to/#/@natrius:matrix.org)  
+
+---
+
+I'm always open to feedback, suggestions, or just a friendly "hello" in the comments! 😊
