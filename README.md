@@ -21,7 +21,9 @@ Hi, I'm a curious **multipotentialite** with a wide range of interests. My passi
 
 ## 🤝 Let’s Connect
 - 🌐 [OpenStreetMap Austria](https://www.openstreetmap.at/)  
-- 🗺️ [Matrix - @natrius:matrix.org](https://matrix.to/#/@natrius:matrix.org)  
+- 🗺️ [Matrix - @natrius:matrix.org](https://matrix.to/#/@natrius:matrix.org)
+- 🐙 [GitHub - natrius](https://github.com/natrius)  
+- 🦊 [GitLab - natrius](https://gitlab.com/natrius)  
 
 ---
 
