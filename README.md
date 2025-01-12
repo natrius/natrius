@@ -1,4 +1,4 @@
-# 👋 Welcome, I'm Natrius!
+# 👋 Welcome, I'm Stefan!
 
 Hi, I'm a curious **multipotentialite** with a wide range of interests. My passion for technology and open data brought me to the OpenStreetMap community, where I'm actively involved and currently a member of the association **OpenStreetMap Austria**.
 
@@ -25,12 +25,6 @@ Hi, I'm a curious **multipotentialite** with a wide range of interests. My passi
 - 📸 **Photography & Videography**: I enjoy capturing moments through photography and plan to start creating short videos.  
 - 🎲 **Tabletop Role-Playing Games (TTRPGs)**: I love playing TTRPGs and am preparing to start GMing (Game Mastering) soon.  
 
-## 🌟 Personal Touch
-When not mapping or learning, you'll probably find me experimenting with new recipes or simnply gaming. 
-> "Maps are stories about places and people, and I believe every story deserves to be told."  
-
-This belief inspires me to contribute to mapping projects and learn more about the world around us.
-
 ## 🤝 Let’s Connect
 - 🌐 [OpenStreetMap Austria](https://www.openstreetmap.at/)  
 - 🗺️ [Matrix - @natrius:matrix.org](https://matrix.to/#/@natrius:matrix.org)  
@@ -39,4 +33,5 @@ This belief inspires me to contribute to mapping projects and learn more about t
 
 ---
 
+When not mapping or learning, you'll probably find me experimenting with new recipes or simnply gaming.  
 If you're passionate about open data, open source, or just want to chat about maps, photography, or TTRPGs, feel free to reach out! Let's connect and share ideas. 😊
